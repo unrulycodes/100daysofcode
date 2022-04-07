@@ -4,3 +4,5 @@ this repo is a documentation of my code journey
 ▶️ It include the following contributor 👍
 @kinginthenorthcodez
 @luckycodez
+# author
+@unrulycodes
